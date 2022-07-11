@@ -4,8 +4,8 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL:https://github.com/Taiga-Tiny/four-card-feature
+- Live Site URL: https://taiga-tiny.github.io/four-card-feature/
 
 ### Built with
 
